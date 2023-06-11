@@ -9,7 +9,7 @@ You must enable developer mode on discord in order to get the channel ID you wan
 ## Installation
 
 
-Clone the repo, unpack with your favorite archive manager (cough 7zip), go to the dist foler and run the .exe, windows is going to yell at you. Just ignore it. Scraped messages will output next to the .exe file. 
+Clone the repo, unpack with your favorite archive manager (cough 7zip), go to the dist folder and run the .exe, windows is going to yell at you. Just ignore it. Scraped messages will output next to the .exe file. 
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/tRPBSjv.png)
